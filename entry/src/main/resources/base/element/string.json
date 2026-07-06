@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "recent",
+      "value": "Recent"
+    },
+    {
+      "name": "contacts_title",
+      "value": "Contacts"
+    },
+    {
+      "name": "recent_prefix",
+      "value": "Recent · %d"
+    },
+    {
+      "name": "action_select",
+      "value": "Select"
+    },
+    {
+      "name": "action_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "action_apply",
+      "value": "Apply"
+    },
+    {
+      "name": "batch_processed",
+      "value": "%d contact(s) processed"
+    },
+    {
+      "name": "settings_title",
+      "value": "Settings"
+    },
+    {
+      "name": "recent_contacts_shown",
+      "value": "Recent contacts shown"
+    },
+    {
+      "name": "showing_up_to",
+      "value": "Showing up to %d recent contact(s)"
+    },
+    {
+      "name": "action_back",
+      "value": "Back"
+    }
+  ]
+}
